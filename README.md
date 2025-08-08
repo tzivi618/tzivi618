@@ -1,6 +1,6 @@
 <!-- Banner -->
-<h1 align="center">Tzivya Ainoren</h1>
-<h3 align="center">Full Stack Software Engineer | Problem Solver | Lifelong Learner</h3>
+<h1 >Tzivya Ainoren</h1>
+<h3 >Full Stack Software Engineer | Problem Solver | Lifelong Learner</h3>
 
 ---
 
@@ -81,7 +81,7 @@ Simulates Git with Python code analysis in a CI pipeline.
 ## 📫 Contact Me
 <p align="left">
   <a href="https://github.com/tzivi618"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
-  <a href="mailto:tzivi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:tzivi618@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
