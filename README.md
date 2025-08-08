@@ -4,16 +4,16 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 I'm a software engineer who loves deep thinking, breaking down complex problems, and building elegant, practical solutions.  
 I have endless curiosity for technology and constantly learn to grow and improve products.  
 I focus on writing clean code and maintaining open communication – because technological success comes from a mix of quality, collaboration, and human understanding.
 
 ---
 
-## 🛠 Skills
+##  Skills
 
-### 🚀 Languages & Technologies
+###  Languages & Technologies
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,js,ts,python,nodejs,react,angular,html,css,c,cpp" />
   <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white" />
@@ -22,7 +22,7 @@ I focus on writing clean code and maintaining open communication – because tec
   <img src="https://img.shields.io/badge/REST%20API-005571?style=flat" />
 </p>
 
-### 🧱 Frameworks & Tools
+###  Frameworks & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=express,docker,redux,materialui,linux,git,github" />
   <img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?style=flat&logo=hibernate&logoColor=white" />
@@ -35,7 +35,7 @@ I focus on writing clean code and maintaining open communication – because tec
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white" />
 </p>
 
-### 🤖 Machine & Data Tools
+###  Machine & Data Tools
 <p align="left">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
@@ -45,7 +45,7 @@ I focus on writing clean code and maintaining open communication – because tec
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 ### [SmartDocs](https://github.com/tzivi618/SmartDocs)
 Interactive personal document management system with a modern Material UI interface.
@@ -78,7 +78,7 @@ Simulates Git with Python code analysis in a CI pipeline.
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 <p align="left">
   <a href="https://github.com/tzivi618"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
   <a href="mailto:tzivi618@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
