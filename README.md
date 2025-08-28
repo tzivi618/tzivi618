@@ -13,19 +13,75 @@ I focus on writing clean code and maintaining open communication – because tec
 
 ##  Skills
 
-###  Languages & Technologies
+### Languages & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,js,ts,python,nodejs,react,angular,html,css,c,cpp,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=cs" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
 </p>
 
-###  Frameworks & Tools
+### Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=express,docker,redux,materialui,linux,git,github,postman,maven" />
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+  <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=express" />
 </p>
 
-###  Machine & Data Tools
+### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,jupyter" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=angular" />
+  <img src="https://skillicons.dev/icons?i=materialui" />
+  <img src="https://skillicons.dev/icons?i=redux" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=sqlserver" />
+</p>
+
+### Tools & Testing
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=swagger" />
+</p>
+
+### IDEs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=visualstudio" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=eclipse" />
+  <img src="https://skillicons.dev/icons?i=idea" />
+  <img src="https://skillicons.dev/icons?i=pycharm" />
+</p>
+
+### Machine Learning & Data
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=numpy" />
+  <img src="https://skillicons.dev/icons?i=pandas" />
+  <img src="https://skillicons.dev/icons?i=matplotlib" />
+</p>
+
+### Version Control
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+### Design & Architecture
+<p align="left">
+  <img src="https://img.shields.io/badge/Design%20Patterns-000000?style=flat" />
+  <img src="https://img.shields.io/badge/System%20Design-000000?style=flat" />
+  <img src="https://img.shields.io/badge/UML-02569B?style=flat" />
+  <img src="https://img.shields.io/badge/Microservices-FF9900?style=flat" />
 </p>
 
 ---
