@@ -23,7 +23,7 @@ I focus on writing clean code, maintaining open communication, and constantly le
 
 ## Skills
 
-### Languages & Frameworks
+## Languages & Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs" />
   <img src="https://skillicons.dev/icons?i=java" />
@@ -36,7 +36,7 @@ I focus on writing clean code, maintaining open communication, and constantly le
   <img src="https://skillicons.dev/icons?i=cpp" />
 </p>
 
-### Frontend
+## Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=angular" />
@@ -45,21 +45,20 @@ I focus on writing clean code, maintaining open communication, and constantly le
   <img src="https://skillicons.dev/icons?i=tailwind" />
 </p>
 
-### Backend
+## Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dotnet" />
   <img src="https://skillicons.dev/icons?i=spring" />
   <img src="https://skillicons.dev/icons?i=express" />
 </p>
 
-### Databases
-
+## Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
   <img src="https://skillicons.dev/icons?i=sql" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-### Tools
+## Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
@@ -67,29 +66,21 @@ I focus on writing clean code, maintaining open communication, and constantly le
   <img src="https://skillicons.dev/icons?i=swagger" />
 </p>
 
-### IDEs
+## IDEs
 <p align="left">
   <img src="https://skillicons.dev/icons?i=visualstudio" />
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=eclipse" />
   <img src="https://skillicons.dev/icons?i=idea" />
   <img src="https://skillicons.dev/icons?i=pycharm" />
-  <img src="https://img.shields.io/badge/SSMS-0078D7?style=flat&logo=sql-server&logoColor=white" /> 
+  <img src="https://skillicons.dev/icons?i=ssms" />
 </p>
 
-### Machine Learning & Data
+## Machine Learning & Data
 <p align="left">
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" />
-</p>
-
-### Design & Architecture
-<p align="left">
-  <img src="https://img.shields.io/badge/Design%20Patterns-000000?style=flat" />
-  <img src="https://img.shields.io/badge/System%20Design-000000?style=flat" />
-  <img src="https://img.shields.io/badge/UML-02569B?style=flat" />
-  <img src="https://img.shields.io/badge/Microservices-FF9900?style=flat" />
 </p>
 
 ---
