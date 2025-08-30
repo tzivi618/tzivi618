@@ -9,31 +9,28 @@ I'm a software engineer who loves deep thinking, breaking down complex problems,
 I have endless curiosity for technology and constantly learn to grow and improve products.  
 I focus on writing clean code and maintaining open communication – because technological success comes from a mix of quality, collaboration, and human understanding.
 
----
-
-# Languages 
-
-### client side
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular&perline=7)]()
-
-### server side
-
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,c,cs,dotnet,cpp,py&perline=9)]()
-
-# Tools 
-
-[![My Skills](https://skillicons.dev/icons?i=postman,swagger,git,github&perline=13)]()
-### dataBases
-[![My Skills](https://skillicons.dev/icons?i=mongodb,sqlserver&perline=13)]()
-# IDEs 
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,pycharm,idea&perline=6)]()
 
 ---
-##  Skills
 
-### Languages & Technologies
+##  Contact Me
+<p align="left">
+  <a href="https://github.com/tzivi618">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:tzivi618@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+
+⭐ **Fun Fact:** I believe that good code is like a good story – clear, structured, and engaging.
+
+---
+## Skills
+
+### Languages & Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c" />
   <img src="https://skillicons.dev/icons?i=cpp" />
@@ -46,13 +43,6 @@ I focus on writing clean code and maintaining open communication – because tec
   <img src="https://skillicons.dev/icons?i=css" />
 </p>
 
-### Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet" />
-  <img src="https://skillicons.dev/icons?i=spring" />
-  <img src="https://skillicons.dev/icons?i=express" />
-</p>
-
 ### Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" />
@@ -62,14 +52,23 @@ I focus on writing clean code and maintaining open communication – because tec
   <img src="https://skillicons.dev/icons?i=tailwind" />
 </p>
 
+### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+  <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=express" />
+</p>
+
 ### Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" />
   <img src="https://skillicons.dev/icons?i=sqlserver" />
 </p>
 
-### Tools & Testing
+### Tools
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=postman" />
   <img src="https://skillicons.dev/icons?i=swagger" />
 </p>
@@ -88,12 +87,6 @@ I focus on writing clean code and maintaining open communication – because tec
   <img src="https://skillicons.dev/icons?i=numpy" />
   <img src="https://skillicons.dev/icons?i=pandas" />
   <img src="https://skillicons.dev/icons?i=matplotlib" />
-</p>
-
-### Version Control
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
 ### Design & Architecture
@@ -139,15 +132,3 @@ Simulates Git with Python code analysis in a CI pipeline.
 
 ---
 
-##  Contact Me
-<p align="left">
-  <a href="https://github.com/tzivi618">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="mailto:tzivi618@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
----
-⭐ **Fun Fact:** I believe that good code is like a good story – clear, structured, and engaging.
