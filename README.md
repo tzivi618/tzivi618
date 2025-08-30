@@ -19,9 +19,7 @@ I focus on writing clean code, maintaining open communication, and constantly le
 
 ⭐ **Fun Fact:** I believe that good code is like a good story – clear, structured, and engaging.
 
-
 ---
-
 
 ## Skills
 
@@ -58,7 +56,7 @@ I focus on writing clean code, maintaining open communication, and constantly le
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://skillicons.dev/icons?i=sqlite" />
+  <img src="https://skillicons.dev/icons?i=sql" />
 </p>
 
 ### Tools
@@ -76,7 +74,7 @@ I focus on writing clean code, maintaining open communication, and constantly le
   <img src="https://skillicons.dev/icons?i=eclipse" />
   <img src="https://skillicons.dev/icons?i=idea" />
   <img src="https://skillicons.dev/icons?i=pycharm" />
-  <img src="https://skillicons.dev/icons?i=ssms" />
+  <img src="https://img.shields.io/badge/SSMS-0078D7?style=flat&logo=sql-server&logoColor=white" /> 
 </p>
 
 ### Machine Learning & Data
@@ -94,11 +92,10 @@ I focus on writing clean code, maintaining open communication, and constantly le
   <img src="https://img.shields.io/badge/Microservices-FF9900?style=flat" />
 </p>
 
-
 ---
 
-<br>
-
 ### My GitHub Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tzivi618&show_icons=true&theme=light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tzivi618&layout=compact&theme=light)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tzivi618&show_icons=true&theme=light" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tzivi618&layout=compact&theme=light" />
+</p>
