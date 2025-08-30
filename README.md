@@ -11,6 +11,26 @@ I focus on writing clean code and maintaining open communication – because tec
 
 ---
 
+# Languages 
+
+### client side
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular&perline=7)]()
+
+### server side
+
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,c,cs,dotnet,cpp,py&perline=9)]()
+
+# Tools 
+
+[![My Skills](https://skillicons.dev/icons?i=postman,swagger,git,github&perline=13)]()
+### dataBases
+[![My Skills](https://skillicons.dev/icons?i=mongodb,sqlserver&perline=13)]()
+# IDEs 
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,pycharm,idea&perline=6)]()
+
+---
 ##  Skills
 
 ### Languages & Technologies
