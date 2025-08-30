@@ -3,11 +3,11 @@
 
 ---
 
-## About Me
+### About Me
 I'm a software engineer who loves deep thinking, breaking down complex problems, and building elegant, practical solutions.
 I focus on writing clean code, maintaining open communication, and constantly learning to improve products.
 
-## Contact Me
+### Contact Me
 <p align="left">
   <a href="https://github.com/tzivi618">
     <img src="https://skillicons.dev/icons?i=github" />
@@ -23,7 +23,7 @@ I focus on writing clean code, maintaining open communication, and constantly le
 
 ## Skills
 
-## Languages & Frameworks
+#### Languages & Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs" />
   <img src="https://skillicons.dev/icons?i=java" />
@@ -36,7 +36,7 @@ I focus on writing clean code, maintaining open communication, and constantly le
   <img src="https://skillicons.dev/icons?i=cpp" />
 </p>
 
-## Frontend
+#### Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=angular" />
@@ -45,20 +45,20 @@ I focus on writing clean code, maintaining open communication, and constantly le
   <img src="https://skillicons.dev/icons?i=tailwind" />
 </p>
 
-## Backend
+#### Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dotnet" />
   <img src="https://skillicons.dev/icons?i=spring" />
   <img src="https://skillicons.dev/icons?i=express" />
 </p>
 
-## Databases
+#### Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=sql" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-## Tools
+#### Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
@@ -66,7 +66,7 @@ I focus on writing clean code, maintaining open communication, and constantly le
   <img src="https://skillicons.dev/icons?i=swagger" />
 </p>
 
-## IDEs
+#### IDEs
 <p align="left">
   <img src="https://skillicons.dev/icons?i=visualstudio" />
   <img src="https://skillicons.dev/icons?i=vscode" />
@@ -76,7 +76,7 @@ I focus on writing clean code, maintaining open communication, and constantly le
   <img src="https://skillicons.dev/icons?i=ssms" />
 </p>
 
-## Machine Learning & Data
+#### Machine Learning & Data
 <p align="left">
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
@@ -85,8 +85,7 @@ I focus on writing clean code, maintaining open communication, and constantly le
 
 ---
 
-### My GitHub Overview
+## My GitHub Overview
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tzivi618&show_icons=true&theme=light" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tzivi618&layout=compact&theme=light" />
 </p>
