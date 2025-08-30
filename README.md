@@ -12,6 +12,7 @@ I focus on writing clean code and maintaining open communication – because tec
 
 ---
 
+
 ##  Contact Me
 <p align="left">
   <a href="https://github.com/tzivi618">
@@ -22,12 +23,16 @@ I focus on writing clean code and maintaining open communication – because tec
   </a>
 </p>
 
+
 ---
 
 
 ⭐ **Fun Fact:** I believe that good code is like a good story – clear, structured, and engaging.
 
+
 ---
+
+
 ## Skills
 
 ### Languages & Frameworks
@@ -130,5 +135,4 @@ Simulates Git with Python code analysis in a CI pipeline.
 - SQL Server for alert management
 - Matplotlib for code quality reports
 
----
 
